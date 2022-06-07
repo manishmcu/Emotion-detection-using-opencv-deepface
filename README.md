@@ -1,5 +1,9 @@
 # Emotion-detection-using-opencv-deepface
 
+#### Warnings
+1. Please do the test under full lighting condition, otherwise your face will not be detected and code will arise error
+2. Please don't move your face randomly
+
 ### Neutral Face:
 
 <p align="center">
